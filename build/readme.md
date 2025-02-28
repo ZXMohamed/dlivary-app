@@ -1,0 +1,1 @@
+Main path should be "/"
