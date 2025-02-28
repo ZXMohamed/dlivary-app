@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4752591a.css",
+    "main.js": "/static/js/main.d87033d1.js",
+    "static/js/453.217724ad.chunk.js": "/static/js/453.217724ad.chunk.js",
+    "static/media/veg.jpg": "/static/media/veg.5cef503735ac1649d104.jpg",
+    "static/media/bos.jpg": "/static/media/bos.0e97ad82c09a3d383673.jpg",
+    "static/media/PAS.jpg": "/static/media/PAS.24dc27f0a86f86b54d26.jpg",
+    "static/media/sav.jpg": "/static/media/sav.1ce37c0abcc1abbb1417.jpg",
+    "static/media/SWE.jpg": "/static/media/SWE.c4e521d38f2c1ec85feb.jpg",
+    "static/media/bread.jpg": "/static/media/bread.a27537d6f0207581b47f.jpg",
+    "static/media/fru.jpg": "/static/media/fru.92ff09ac7829207ce20b.jpg",
+    "static/media/DRE.jpg": "/static/media/DRE.f8247bcfe3c5b080c693.jpg",
+    "static/media/cart.svg": "/static/media/cart.f36ecc83bb9f1b33482660655c259bd1.svg",
+    "static/media/cartbtn.svg": "/static/media/cartbtn.add0f44a749e535b1ff9efb51a464bb8.svg",
+    "static/media/lovebtn.svg": "/static/media/lovebtn.94398c2cee1e6e57126bc7c0f5442278.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.6a9018d2becc96f1d195af583908f4b1.svg",
+    "static/media/check.svg": "/static/media/check.fc42494489aa85ba3ccc2b9d6030eba5.svg",
+    "main.4752591a.css.map": "/static/css/main.4752591a.css.map",
+    "main.d87033d1.js.map": "/static/js/main.d87033d1.js.map",
+    "453.217724ad.chunk.js.map": "/static/js/453.217724ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4752591a.css",
+    "static/js/main.d87033d1.js"
+  ]
+}
