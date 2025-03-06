@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="react logo"  />
+  <img width="20" />
+  <img src="https://reactrouter.com/favicon-dark.png" height="60" alt="react router logo"  />
 </div>
 
 ###
@@ -39,7 +41,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
 </div>
 
 ###
