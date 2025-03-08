@@ -21,7 +21,7 @@
 
 ###
 
-<a href="https://www.figma.com/design/zlClK4AaSmRT9SgipFZ89G/Delivery-App_UI-Kit-(Community)-(Copy)?node-id=33-699&t=C5cdsLRQHL9y30F0-0">https://www.figma.com/</a>
+<a href="https://www.figma.com/design/zlClK4AaSmRT9SgipFZ89G/Delivery-App_UI-Kit-(Community)-(Copy)?node-id=33-699&t=C5cdsLRQHL9y30F0-0">https://www.figma.com/design/zlClK4AaSmRT9SgipFZ89G/Delivery-App_UI-Kit-(Community)-(Copy)?node-id=33-699&t=C5cdsLRQHL9y30F0-0/</a>
 
 ###
 
